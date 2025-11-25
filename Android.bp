@@ -14,7 +14,7 @@
 // limitations under the License.
 
 package {
-    default_applicable_licenses: ["hardware_samsung_nfc_license"],
+    default_applicable_licenses: ["hardware_samsung_slsi_nfc_license"],
 }
 
 // Added automatically by a large-scale-change
@@ -31,7 +31,7 @@ license {
 }
 
 cc_library_shared {
-    name: "nfc_nci_samsung",
+    name: "nfc_nci_sec",
     defaults: ["hidl_defaults"],
     proprietary: true,
 
