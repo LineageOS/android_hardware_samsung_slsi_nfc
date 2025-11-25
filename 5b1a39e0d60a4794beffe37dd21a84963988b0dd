@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "0e4859e4_69215af7",
+        "filename": "Android.bp",
+        "patchSetId": 1
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-11-25T21:05:02Z",
+      "side": 1,
+      "message": "```suggestion\n    default_applicable_licenses: [\"hardware_samsung_slsi_nfc_license\"],\n```\n\nThis needs to be changed throughout the repository",
+      "range": {
+        "startLine": 17,
+        "startChar": 35,
+        "endLine": 17,
+        "endChar": 63
+      },
+      "revId": "5b1a39e0d60a4794beffe37dd21a84963988b0dd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
