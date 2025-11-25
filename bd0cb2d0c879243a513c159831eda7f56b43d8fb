@@ -16,6 +16,23 @@
       "message": "works a21s",
       "revId": "bd0cb2d0c879243a513c159831eda7f56b43d8fb",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2a4d3431_bd2b6fca",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 6
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 24387
+      },
+      "writtenOn": "2025-11-25T21:26:13Z",
+      "side": 1,
+      "message": "Tested on s24",
+      "revId": "bd0cb2d0c879243a513c159831eda7f56b43d8fb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
