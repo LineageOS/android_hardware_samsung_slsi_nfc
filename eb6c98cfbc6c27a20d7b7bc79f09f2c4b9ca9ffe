@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "3bcbb90d_93e14f1d",
+        "filename": "aidl/Android.bp",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-11-25T21:06:37Z",
+      "side": 1,
+      "message": "```suggestion\n    name: \"android.hardware.nfc-service.sec\",\n```\n\nAll references to samsung service should be changed to sec",
+      "range": {
+        "startLine": 11,
+        "startChar": 40,
+        "endLine": 11,
+        "endChar": 47
+      },
+      "revId": "eb6c98cfbc6c27a20d7b7bc79f09f2c4b9ca9ffe",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
