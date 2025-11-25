@@ -31,7 +31,7 @@ license {
 }
 
 cc_library_shared {
-    name: "nfc_nci_samsung",
+    name: "nfc_nci_sec",
     defaults: ["hidl_defaults"],
     proprietary: true,
 
