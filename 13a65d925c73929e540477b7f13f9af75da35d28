@@ -33,6 +33,23 @@
       "message": "770 is just too broad and 660 is what I\u0027ve seen on stock motorola OS and lineage samsung device trees",
       "revId": "13a65d925c73929e540477b7f13f9af75da35d28",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2f2932e0_b279a3e6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 34512
+      },
+      "writtenOn": "2025-11-26T17:40:58Z",
+      "side": 1,
+      "message": "alright, if that permission works on samsung, then sure",
+      "revId": "13a65d925c73929e540477b7f13f9af75da35d28",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
